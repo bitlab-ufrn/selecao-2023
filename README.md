@@ -24,7 +24,7 @@ Você está livre para utilizar qualquer linguagem ou ferramenta.
 
 ## Instruções
 
-1. Envie sua resposta por meio do Github classroom 
+1. Envie sua resposta por meio do Github classroom (https://classroom.github.com/a/1a1_PfEr)
 2. Escreva um código limpo e de fácil compreensão
 3. Faça deploy para algum serviço de cloud para que possamos acessar facil,mente e testar sua aplicação. Sugestão https://vercel.com/
 4. Adicione a esse READMe instruções de acesso ao seu sistema
