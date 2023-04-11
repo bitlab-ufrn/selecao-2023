@@ -2,9 +2,15 @@
 
 Olá, bem vindo ao desafio para seleção de bolsistas para o Bitlab 2023! Nesse documento você encontrará as instruções para a execução do seu desafio! Sem enrolação, vamos as instruções.
 
-### O que queremos?
+## Desafio
 
-Você foi contratado para criar um sistema capaz de detecta textos com conteúdo impróprio. Assim, dado um texto qualquer, o seu programa deverá indicar se o  possui ou não conteúdo inapropriado.
+Havia uma vez uma pequena empresa de tecnologia chamada "Segurança Online". Eles eram especializados em segurança cibernética e estavam comprometidos em ajudar as pessoas a navegar na Internet de forma segura.
+
+Um dia, a equipe da "Segurança Online" foi contatada por um cliente preocupado com o conteúdo inapropriado que estava aparecendo em seu site. O cliente explicou que o site permitia que os usuários postassem comentários e que muitos desses comentários continham linguagem ofensiva e até mesmo ameaças violentas.
+
+A equipe da "Segurança Online" entendeu imediatamente a gravidade do problema e se comprometeu a encontrar uma solução. Eles sabiam que a melhor maneira de lidar com esse tipo de situação era criar um algoritmo de detecção de conteúdo impróprio.
+
+Assim, suponha  que você foi o profissional escolhido pela "Segurança Online" para implementar tal solução.  **Logo, você deve criar um sistema capaz de detectar textos com conteúdo impróprio.**
 
 > Entenda por conteúdo inapropriado o texto que possui textos ofensivos ou palavões.
 
@@ -18,7 +24,7 @@ Você está livre para utilizar qualquer linguagem ou ferramenta.
 
 ## Instruções
 
-1. Envie sua resposta por meio do github classroom
+1. Envie sua resposta por meio do Github classroom 
 2. Escreva um código limpo e de fácil compreensão
 3. Faça deploy para algum serviço de cloud para que possamos acessar facil,mente e testar sua aplicação. Sugestão https://vercel.com/
 4. Adicione a esse READMe instruções de acesso ao seu sistema
